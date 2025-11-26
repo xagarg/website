@@ -56,7 +56,7 @@ export const Hero = () => {
             </div>
             <div className="absolute -bottom-6 -left-6 bg-white rounded-xl shadow-xl p-6 transform hover:scale-105 transition-transform duration-300">
               <p className="text-sm text-gray-600 mb-1">Open Daily</p>
-              <p className="text-2xl font-bold text-emerald-600">11AM - 9PM</p>
+              <p className="text-2xl font-bold text-emerald-600">12PM - 11PM</p>
             </div>
           </div>
         </div>
